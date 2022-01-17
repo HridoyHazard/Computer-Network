@@ -17,7 +17,7 @@ you'll get some lab packet file in this repo, you'll learn how to build a networ
     <img src="ss/1.png"><br>
    <b>then place hub in the middle</b><br>
     <img src="ss/2.png"><br>
-    <b>then connect all the pc into hub using connection</b><br>
+    <b>then connect all the pc into hub using connector</b><br>
     <img src="ss/4.png"><br>
     <b>Click in Pc and Set Ip Configuration</b><br>
     <img src="ss/5.png"><br>
